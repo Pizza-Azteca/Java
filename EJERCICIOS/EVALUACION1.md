@@ -10,15 +10,13 @@ clara, según sea el caso.
 1. Java es un lenguaje compilable, lo que significa que el código que escribimos es
 traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
 
-        a. Falso
+       
         b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
 
         a. Proporcionan notas legibles para humanos que aclaran el pensamiento.
-        b. Proporcionan controles que el compilador debe pasar.
-        c. Indican cómo se imprimen las palabras en la pantalla.
-        d. Sólo están presentes en el código de compilación.
+       
 
 3. El siguiente código se ejecutará sin error. (Valor 1 punto)
 
@@ -34,7 +32,7 @@ public class LanguagesFacts{
   
 }
 
-        a. Cierto
+      
         b. Falso
 
 4. ¿Qué imprimirá el siguiente código en la pantalla? (Valor 1 punto)
@@ -49,7 +47,7 @@ public class HelloYou{
   
 }
 
-        a. ¡Hola amigo!
+       
         b. Este código contiene un error.
         c. "¡Hola amigo!"
 
@@ -62,9 +60,7 @@ public class HechosLenguaje{
   
 }
 
-          a. Las llaves que marcan el alcance de la clase.
-          b. La línea para compilar código: javac HechosLenguaje.java
-          c. Un comentario de una sola línea.
+          
           d. El método main().
 
 
